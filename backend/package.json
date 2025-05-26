@@ -13,6 +13,7 @@
   "dependencies": {
     "@langchain/community": "^0.3.44",
     "@langchain/core": "^0.3.57",
+    "express": "^5.1.0",
     "langchain": "^0.3.27",
     "openai": "^4.103.0"
   },
